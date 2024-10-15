@@ -750,7 +750,6 @@ button.submit-btn:hover {
 @media (max-width:400px){
 
     .navbar{
-        border:2px solid red;
 
         width:36px;
     }
