@@ -180,7 +180,11 @@ body {
 }
 
 .rectangle {
-    background-color: green;
+/*     background-color: green; */
+    background-image: url('../images/photo.jpg');
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat;
     border: 20px solid blue;
     height: 55vh;
     width: 30vw;
