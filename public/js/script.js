@@ -1,7 +1,7 @@
 
 const texts = [
     "Web Application developer",
-    "Mobile Applicaton developer",
+    "Mobile Application developer",
     "UI/UX Designer"
 ];
 
